@@ -2089,7 +2089,7 @@ body {
 }
 
 .hero-bg-fren {
-	background: #ffe0e0 url(../images/bg-chubbifrens.png);
+	background: #ffe0e0 url(../images/bg-chubbiefrends.png);
 	background-repeat: repeat-x;
 	background-position: top;
 	background-size: auto 100%;
@@ -2216,14 +2216,14 @@ section#team {
 }
 
 .bg-space {
-	background-image: url(../images/bg-space.png);
+	background-image: url(../images/bg-space.jpg);
 	background-position: top;
 	background-size: cover
 }
 
 @media (min-width:768px) {
 	.bg-chubbi-dessert {
-		background-image: url(../images/bg-dessert.jpg);
+		background-image: url(../images/bg-dessert.png);
 		background-position: top;
 		background-size: 100%
 	}
