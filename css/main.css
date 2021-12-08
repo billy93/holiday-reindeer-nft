@@ -2221,6 +2221,17 @@ section#team {
 	background-size: cover
 }
 
+.parallax{
+	  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 @media (min-width:768px) {
 	.bg-chubbi-dessert {
 		background-image: url(../images/bg-dessert.png);
