@@ -2249,6 +2249,14 @@ section#team {
 }
 
 @media (min-width:768px) {
+	.bg-number {
+		background-image: url(../images/bg-number.png);
+		background-position: top;
+		background-size: 100%;
+	}
+}
+
+@media (min-width:768px) {
 	.bg-chubbi-footer {
 		background-image: url(../images/footer.jpg);
 		background-position: top;
